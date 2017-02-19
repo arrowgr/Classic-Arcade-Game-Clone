@@ -2,7 +2,7 @@
 ===============================
 
 click on index.html or visit my gh-page" 
-https://github.com/arrowgr/project-3/settings
+https://github.com/arrowgr/project-3/
 
 
 
